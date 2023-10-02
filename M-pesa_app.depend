@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1695703113 source:c:\users\admin\documents\james matata\c++ programming\m-pesa_app\phonenumber.cpp
+	<iostream>
+	<stdlib.h>
+
+1696135627 source:c:\users\admin\documents\james matata\c++ programming\m-pesa_app\main_menu.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1696138695 source:c:\users\admin\documents\james matata\c++ programming\m-pesa_app\pin.cpp
+	<iostream>
+	<conio.h>
+
+1695817334 source:c:\users\admin\documents\james matata\c++ programming\m-pesa_app\untitled1.cpp
+	<iostream>
+
